@@ -21,8 +21,8 @@ This project is an end-to-end data analytics solution for a restaurant, showcasi
 - **Detailed Order Drilldown**
 
 ## 📊 Visuals
-"C:\Users\Admin\Desktop\restaurant analysis\Screenshots\Screenshot (254).png"
-"C:\Users\Admin\Desktop\restaurant analysis\Screenshots\Screenshot (255).png"
+"https://github.com/chinmay6378/restaurant-sales-analysis/blob/main/Screenshots/Screenshot%20(254).png"
+"https://github.com/chinmay6378/restaurant-sales-analysis/blob/main/Screenshots/Screenshot%20(255).png"
 
 ## 🗂️ How to Run
 1. Clone this repo.
